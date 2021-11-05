@@ -1,10 +1,10 @@
-##SmartSneaks.Lisk##
+**SmartSneaks.Lisk**
 
 _SmartSneaks is a retail shoes shop startup which Leverages the power of AI to create sneakers design and non-fungible tokens (NFT) when releasing sneakers. It has this beautiful online marketplace which includes physical shoes that are matched with digital NFTs._
 
-##WebApp Code##
+**WebApp Code**
 
-## Inspiration##
+## Inspiration
 
 **Sneakers and non-fungible tokens (NFTs) are, seemingly, made for each other.**
 
